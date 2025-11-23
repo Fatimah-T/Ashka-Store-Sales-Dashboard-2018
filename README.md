@@ -36,9 +36,9 @@ The dashboard provides a clear view of revenue, profit, order trends, top-perfor
 ---
 
 ## Repository Contents
-- `Ashka Store PowerBI Dashboard.pbix` — Power BI File  
-- `Dashboard Screenshot` — To be added  
-- `README.md` — Documentation
+- Ashka Store PowerBI Dashboard.pbix — Power BI File  
+- Dashboard Screenshot  
+- README.md
 
 ---
 
