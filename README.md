@@ -12,20 +12,34 @@ Support the store owner with data-driven insights for better business decisions
 
 ## Key Insights
 Total Revenue: £437,771
+
 Total Profit: £36,963
+
 Total Orders: 500
+
 Top Category: Electronics (37.98% of revenue)
+
 Top Subcategory: Printers
+
 Top Performing Cities: Indore, Mumbai, Pune
+
 Most Used Payment Mode: Cash on Delivery (COD)
+
 Revenue peaks in January and remains steady throughout the year.
 
 ### Tools & Techniques
 Power BI
+
 Power Query
+
 DAX
+
 Data Modelling
+
 Excel
+
 Data Cleaning & Transformation
+
 KPI Design
+
 Dashboard Storytelling
