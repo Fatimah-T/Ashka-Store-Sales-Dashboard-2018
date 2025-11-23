@@ -50,4 +50,5 @@ KPI Design
 Dashboard Storytelling
 
 ##  Dashboard Preview
+https://github.com/Fatimah-T/Ashka-Store-Sales-Dashboard-2018/blob/main/Screenshot%202025-11-17%20013303.png
 
