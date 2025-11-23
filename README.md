@@ -45,7 +45,5 @@ The dashboard provides a clear view of revenue, profit, order trends, top-perfor
 ##  Dashboard Preview
 https://github.com/Fatimah-T/Ashka-Store-Sales-Dashboard-2018/blob/main/Screenshot%202025-11-17%20013303.png
 
-## 🖼️ Dashboard Preview
-![Ashka Store Dashboard](https://raw.githubusercontent.com/Fatimah-T/Ashka-Store-Sales-Dashboard-2018/main/Ashka%20store%20dashboard.jpg)
 
 
